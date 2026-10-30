@@ -203,3 +203,18 @@
         font-size: 21px;
     }
 }
+
+.article-image{
+    width :100%;
+    margin: 35px auto;
+    text-align: center;
+}
+
+.article-image img{
+    width: 100%;
+    max-width: 845px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 12px;
+}
